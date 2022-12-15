@@ -1,0 +1,6 @@
+name: ServerHelper
+version: 1.0
+author: KillerWhalee
+description: Several tools for helping server operation
+
+main: main.Main
