@@ -1,4 +1,4 @@
-package main;
+package net.kaist_world.serverhelper;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
